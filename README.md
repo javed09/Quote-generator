@@ -1,0 +1,2 @@
+# Quote-generator
+Web project
